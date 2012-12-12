@@ -1,6 +1,8 @@
 Stretchy
 ========
 
+URL: http://github.com/r3/Stretchy
+
 Author: Ryan Roler (ryan.roler@gmail.com)
 License: GPL 3
 Requires: matplotlib
@@ -20,7 +22,7 @@ If run without options, the program will print out a table of calculated
 values. For other options, invoke the program with '-h' or '--help' options
 for the following instructions:
 
-    ----------------------------------------------------------------
+    ----------------------------HELP----------------------------------
     
 usage: stretchy.py [-h] [--video] [--picture] [--data] [--gravity GRAV]
                    [--spring SPRING] [--length R_NAUGHT] [--mass MASS]
